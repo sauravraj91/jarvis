@@ -9,6 +9,7 @@ oops
 spring boot
 git
 angular js
-
+h2 database
+postman
 
 thankyou:)
