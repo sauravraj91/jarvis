@@ -1,7 +1,7 @@
 
 
 
-Welcometo the coding world
+Welcome to the coding world
 
 
 java
@@ -9,3 +9,6 @@ oops
 spring boot
 git
 angular js
+
+
+thankyou:)
